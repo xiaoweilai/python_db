@@ -3,7 +3,7 @@
 #coding=utf-8
 
 
-# --- picknames.py ---
+# --- picknames_up1.py ---
 import os
 filenames=os.listdir(os.getcwd())
 for name in filenames:
